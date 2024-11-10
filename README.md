@@ -1,21 +1,18 @@
- <script src="https://cdn.tailwindcss.com"></script>
-
-<body class="bg-gray-900 text-white flex items-center justify-center h-screen font-sans">
-
-  <div class="max-w-lg mx-auto p-8 rounded-lg shadow-lg bg-gradient-to-br from-purple-800 to-blue-600 transform hover:scale-105 transition duration-300 ease-in-out">
-    <h1 class="text-4xl font-bold mb-4 text-center animate-pulse">🌟 Hey there! I’m <span class="text-yellow-300">[Your Name]</span> 👋</h1>
-    <p class="text-lg leading-relaxed mb-6">
-      Welcome to my GitHub! I’m a <strong class="text-yellow-300">sophomore</strong> in <strong class="text-yellow-300">Computer Science and Engineering (Data Science)</strong> 🎓, passionate about <strong class="text-yellow-300">coding</strong> 💻, <strong class="text-yellow-300">problem-solving</strong> 🧩, and creating impactful projects. Here, you’ll find my journey through <strong class="text-yellow-300">Data Structures and Algorithms (DSA)</strong> 🔍 and <strong class="text-yellow-300">full-stack development</strong> 🌐 as I dive into new tech, build innovative solutions, and share my progress! 🚀
-    </p>
-    <p class="text-lg leading-relaxed mb-6">
-      💡 I love tackling <strong class="text-yellow-300">challenges</strong> 🏆 and am always open to <strong class="text-yellow-300">collaboration</strong> 🤝. Whether it’s contributing to open-source projects, building new repositories, or exploring emerging technologies, I’m here to connect and learn from this awesome community of <strong class="text-yellow-300">developers</strong> 🛠️ and <strong class="text-yellow-300">data enthusiasts</strong> 📊.
-    </p>
-    <div class="text-center">
-      <a href="https://github.com/yourusername" class="inline-block bg-yellow-300 text-gray-900 font-semibold py-2 px-4 rounded-full shadow-lg hover:bg-yellow-400 transition duration-300 transform hover:scale-110">
-        Let’s Connect and Build Something Great Together! 🌱😊
-      </a>
-    </div>
+<div class="max-w-lg mx-auto p-8 rounded-lg shadow-lg bg-gradient-to-br from-purple-800 to-blue-600 transform hover:scale-105 transition duration-300 ease-in-out text-white font-sans">
+  <h1 class="text-4xl font-bold mb-4 text-center animate-pulse">🌟 Hey there! I’m <span class="text-yellow-300">[Your Name]</span> 👋</h1>
+  <p class="text-lg leading-relaxed mb-6">
+    Welcome to my GitHub! I’m a <strong class="text-yellow-300">sophomore</strong> in <strong class="text-yellow-300">Computer Science and Engineering (Data Science)</strong> 🎓, passionate about <strong class="text-yellow-300">coding</strong> 💻, <strong class="text-yellow-300">problem-solving</strong> 🧩, and creating impactful projects. Here, you’ll find my journey through <strong class="text-yellow-300">Data Structures and Algorithms (DSA)</strong> 🔍 and <strong class="text-yellow-300">full-stack development</strong> 🌐 as I dive into new tech, build innovative solutions, and share my progress! 🚀
+  </p>
+  <p class="text-lg leading-relaxed mb-6">
+    💡 I love tackling <strong class="text-yellow-300">challenges</strong> 🏆 and am always open to <strong class="text-yellow-300">collaboration</strong> 🤝. Whether it’s contributing to open-source projects, building new repositories, or exploring emerging technologies, I’m here to connect and learn from this awesome community of <strong class="text-yellow-300">developers</strong> 🛠️ and <strong class="text-yellow-300">data enthusiasts</strong> 📊.
+  </p>
+  <div class="text-center">
+    <a href="https://github.com/yourusername" class="inline-block bg-yellow-300 text-gray-900 font-semibold py-2 px-4 rounded-full shadow-lg hover:bg-yellow-400 transition duration-300 transform hover:scale-110">
+      Let’s Connect and Build Something Great Together! 🌱😊
+    </a>
   </div>
+</div>
+
 
 </body>
 
