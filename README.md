@@ -1,7 +1,5 @@
-<div align="center">
-  <img height="200" src="![github-header-image](https://github.com/user-attachments/assets/d05a8599-f207-4b12-ace5-34ba604266ed)
-"  />
-</div>
+![github-header-image](https://github.com/user-attachments/assets/84a681bc-7eff-470b-8b09-fb85730fd1a3)
+
 
 ###
   <h1 class="text-4xl font-bold mb-4 text-center animate-pulse">🌟 Hey there! I’m <span class="text-yellow-300">Amrit Raj</span> 👋</h1>
