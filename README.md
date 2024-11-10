@@ -11,8 +11,8 @@
 ###
 
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=amritrajrajput&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+<div align="center" class ="flex-justify-center">
+  <img src="https://github-readme-stats.vercel.app/api?username=amritrajrajput&locale=en&hide_title=false&layout=compact&card_width=520&langs_count=4&theme=merko&hide_border=false" height="144" alt="languages graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=amritrajrajput&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=4&theme=merko&hide_border=false" height="144" alt="languages graph"  />
 </div>
 
@@ -66,7 +66,7 @@
 </div>
 
 ###
-
+<h2>Current streak..</h2>
 <br clear="both">
 
 <img src="https://raw.githubusercontent.com/amritrajrajput/amritrajrajput/output/snake.svg" alt="Snake animation" />
