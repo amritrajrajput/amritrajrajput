@@ -1,5 +1,5 @@
 <div class="max-w-lg mx-auto p-8 rounded-lg shadow-lg bg-gradient-to-br from-purple-800 to-blue-600 transform hover:scale-105 transition duration-300 ease-in-out text-white font-sans">
-  <h1 class="text-4xl font-bold mb-4 text-center animate-pulse">🌟 Hey there! I’m <span class="text-yellow-300">Amrit Raj</span> 👋</h1>
+  <h1 class="text-4xl font-bold mb-4 text-center animate-pulse">🌟 Hey there! I’m <span class="text-yellow-300">Amrit raj</span> 👋</h1>
   <p class="text-lg leading-relaxed mb-6">
     Welcome to my GitHub! I’m a <strong class="text-yellow-300">sophomore</strong> in <strong class="text-yellow-300">Computer Science and Engineering (Data Science)</strong> 🎓, passionate about <strong class="text-yellow-300">coding</strong> 💻, <strong class="text-yellow-300">problem-solving</strong> 🧩, and creating impactful projects. Here, you’ll find my journey through <strong class="text-yellow-300">Data Structures and Algorithms (DSA)</strong> 🔍 and <strong class="text-yellow-300">full-stack development</strong> 🌐 as I dive into new tech, build innovative solutions, and share my progress! 🚀
   </p>
