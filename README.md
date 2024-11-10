@@ -2,7 +2,7 @@
 
 
 ###
-  <h1 class="text-4xl font-bold mb-4 text-center animate-pulse">🌟 Hey there! I’m <span class="text-yellow-300">Amrit Raj</span> 👋</h1>
+  <h1 class="text-4xl font-bold mb-4 text-center animate-pulse">🌟 Hey there! I’m <span class="text-yellow-300"></span> 👋</h1>
  <h3 align="left"><br>Welcome to my GitHub! I’m a sophomore in Computer Science and Engineering (Data Science) 🎓, passionate about coding 💻, problem-solving 🧩, and creating impactful projects. Here, you’ll find my journey through Data Structures and Algorithms (DSA) 🔍 and full-stack development 🌐 as I dive into new tech, build innovative solutions, and share my progress! 🚀<br><br>💡 I love tackling challenges 🏆 and am always open to collaboration 🤝. Whether it’s contributing to open-source projects, building new repositories, or exploring emerging technologies, I’m here to connect and learn from this awesome community of developers 🛠️ and data enthusiasts 📊.</h3>
 <br>
 <br>
