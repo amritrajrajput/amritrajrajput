@@ -1,5 +1,11 @@
-<h1 align="center">Hi 👋, I'm Amrit raj</h1>
+<h1 align="center">🌟 Hey there! I’m Amrit Raj 👋</h1>
 <h3 align="center">A passionate software engineering student</h3>
+<h4>
+Welcome to my GitHub! I’m a sophomore in Computer Science and Engineering (Data Science) 🎓, passionate about coding 💻, problem-solving 🧩, and creating impactful projects. Here, you'll find my journey through Data Structures and Algorithms (DSA) 🔍 and full-stack development 🌐 as I dive into new tech, build innovative solutions, and share my progress! 🚀
+
+💡 I love tackling challenges 🏆 and am always open to collaboration 🤝. Whether it’s contributing to open-source projects, building new repositories, or exploring emerging technologies, I’m here to connect and learn from this awesome community of developers 🛠️ and data enthusiasts 📊.
+
+Let’s Connect and Build Something Great Together! 🌱😊</h4>
 
 
 - 💬 Ask me about **html , css , javascript**<p></P>
