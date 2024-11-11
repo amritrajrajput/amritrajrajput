@@ -1,6 +1,5 @@
 
-![github-header-image (9)](https://github.com/user-attachments/assets/cdb0cce6-4523-4ac3-b528-e13acf765bad)
-
+![Hey! I am   Amrit raj_page-0001](https://github.com/user-attachments/assets/b6c84cf3-b0a3-42e6-90f7-ac05b92895c7)
 
 ###
   <h1 class="text-4xl font-bold mb-4 text-center animate-pulse">🌟 Hey there!... <span class="text-yellow-300"></span> 👋</h1>
