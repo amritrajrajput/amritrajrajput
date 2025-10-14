@@ -9,11 +9,12 @@ Cleaner Layout: Removed unnecessary line breaks and used Markdown tables for bet
 Concise Introduction: Your intro is now more scannable and placed next to the coding GIF for a dynamic look.<img width="1536" height="1024" alt="Innovating Through Data and Technology" src="https://github.com/user-attachments/assets/a1b393fd-8aef-4d9c-8296-e775d6b8d971" />
 
 
+
 Consistent Formatting: Switched to primarily using Markdown for better readability and maintenance.
 -->
 
 <div align="center">
-  <img width="100%%" height="924" alt="ChatGPT Image Oct 14, 2025, 07_53_28 AM" src="https://github.com/user-attachments/assets/a53600bc-7571-4d4f-aec5-18456b3f2245" />
+  <img width="100%" height="817" alt="ChatGPT Image Oct 14, 2025, 07_53_28 AM" src="https://github.com/user-attachments/assets/b07a7f2a-7c51-49d8-85b6-0357ae9a8a2b" />
 </div>
 <!-- 🌟 Amrit Raj Rajput – Futuristic & Calm-Tech GitHub Profile  -->
 
