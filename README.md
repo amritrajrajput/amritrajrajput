@@ -13,7 +13,7 @@ Consistent Formatting: Switched to primarily using Markdown for better readabili
 -->
 
 <div align="center">
-  <img width="1536" height="1024" alt="ChatGPT Image Oct 14, 2025, 07_53_28 AM" src="https://github.com/user-attachments/assets/a53600bc-7571-4d4f-aec5-18456b3f2245" />
+  <img width="100%%" height="924" alt="ChatGPT Image Oct 14, 2025, 07_53_28 AM" src="https://github.com/user-attachments/assets/a53600bc-7571-4d4f-aec5-18456b3f2245" />
 </div>
 <!-- 🌟 Amrit Raj Rajput – Futuristic & Calm-Tech GitHub Profile  -->
 
