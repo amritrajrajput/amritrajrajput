@@ -13,8 +13,7 @@ Consistent Formatting: Switched to primarily using Markdown for better readabili
 -->
 
 <div align="center">
-  <img alt="Amrit Raj Banner" width="100%" src="https://github.com/user-attachments/assets/28925aa5-268b-4c9c-b1f0-5387323b7cfa" />
-
+  <img width="1536" height="1024" alt="ChatGPT Image Oct 14, 2025, 07_53_28 AM" src="https://github.com/user-attachments/assets/a53600bc-7571-4d4f-aec5-18456b3f2245" />
 </div>
 <!-- 🌟 Amrit Raj Rajput – Futuristic & Calm-Tech GitHub Profile  -->
 
