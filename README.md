@@ -6,13 +6,15 @@ Improved Structure: Sections are more clearly defined with better headings.
 
 Cleaner Layout: Removed unnecessary line breaks and used Markdown tables for better alignment of skills and stats.
 
-Concise Introduction: Your intro is now more scannable and placed next to the coding GIF for a dynamic look.
+Concise Introduction: Your intro is now more scannable and placed next to the coding GIF for a dynamic look.<img width="1536" height="1024" alt="Innovating Through Data and Technology" src="https://github.com/user-attachments/assets/a1b393fd-8aef-4d9c-8296-e775d6b8d971" />
+
 
 Consistent Formatting: Switched to primarily using Markdown for better readability and maintenance.
 -->
 
 <div align="center">
-<img src="https://github.com/user-attachments/assets/b6c84cf3-b0a3-42e6-90f7-ac05b92895c7" alt="Amrit Raj Banner" width="100%"/>
+  <img alt="Amrit Raj Banner" width="100%" src="https://github.com/user-attachments/assets/28925aa5-268b-4c9c-b1f0-5387323b7cfa" />
+
 </div>
 <!-- 🌟 Amrit Raj Rajput – Futuristic & Calm-Tech GitHub Profile  -->
 
