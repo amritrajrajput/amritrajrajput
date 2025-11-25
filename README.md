@@ -32,6 +32,13 @@ Consistent Formatting: Switched to primarily using Markdown for better readabili
 
 ---
 
+### 🐍 Contribution Graph  
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/amritrajrajput/amritrajrajput/output/snake.svg" alt="Snake animation" />
+</div>
+
+---
 ### 🌐 About Me  
 
 💻 I’m a **CSE (Data Science)** student at **GCET**, exploring how **AI, ML, and Data** shape innovation.  
@@ -134,13 +141,6 @@ Consistent Formatting: Switched to primarily using Markdown for better readabili
 
 ---
 
-### 🐍 Contribution Graph  
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/amritrajrajput/amritrajrajput/output/snake.svg" alt="Snake animation" />
-</div>
-
----
 
 ### ⚡ Fun Byte  
 > 🪲 The first computer “bug” was an *actual moth* stuck in a Harvard Mark II relay in 1947.  
