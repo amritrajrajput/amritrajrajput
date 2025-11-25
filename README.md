@@ -63,23 +63,57 @@ Consistent Formatting: Switched to primarily using Markdown for better readabili
 </p>
 
 ---
+---
 
-### 🏆 Achievements & Certifications  
+### 🏆 Achievements & Certifications ✨
 
-<p align="center">
+<div align="center">
   <a href="https://gssoc.girlscript.tech/leaderboard">
     <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/Postman%20White.png" width="90px" alt="GSSoC '24 Badge"/>
   </a>
-  <a href="https://trainings.internshala.com/">
-    <img src="https://img.shields.io/badge/Internshala%20Student%20Partner-ISP-blue?style=for-the-badge&logo=internshala" height="30px" />
-  </a>
-  <a href="https://www.geeksforgeeks.org/">
-    <img src="https://img.shields.io/badge/GeeksforGeeks%20Data%20Analyst%20Workshop-darkgreen?style=for-the-badge&logo=geeksforgeeks&logoColor=white" height="30px" />
-  </a>
-</p>
+</div>
+
+#### 📊 Data Science & AI Job Simulations
+
+* **British Airways - Data Science Job Simulation**
+    * **[Verify Credential](https://www.theforage.com/completion-certificates/tMjbs76F526fF5v3G/NjynCWzGSaWXQCxSX_tMjbs76F526fF5v3G_KMbySJtMC69MTFiXf_1760797866341_completion_certificate.pdf)**
+    * *Skills:* Data Modeling, Machine Learning, Data Visualization.
+* **Deloitte Australia - Data Analytics Job Simulation**
+    * **[Verify Credential](https://www.theforage.com/completion-certificates/9PBTqmSxAf6zZTseP/io9DzWKe3PTsiS6GG_9PBTqmSxAf6zZTseP_KMbySJtMC69MTFiXf_1760758649237_completion_certificate.pdf)**
+    * *Skills:* Data Analysis, Data Modeling, Data Visualization Tools.
+* **Tata - GenAI Powered Data Analytics Job Simulation**
+    * **[Verify Credential](https://www.theforage.com/completion-certificates/ifobHAoMjQs9s6bKS/gMTdCXwDdLYoXZ3wG_ifobHAoMjQs9s6bKS_KMbySJtMC69MTFiXf_1760753928855_completion_certificate.pdf)**
+    * *Skills:* AI Analytics, Predictive Analytics, Exploratory Data Analysis.
+* **Tata - Data Visualisation: Empowering Business**
+    * **[Verify Credential](https://www.theforage.com/completion-certificates/ifobHAoMjQs9s6bKS/MyXvBcppsW2FkNYCX_ifobHAoMjQs9s6bKS_KMbySJtMC69MTFiXf_1760856036631_completion_certificate.pdf)**
+    * *Skills:* Data Analysis, Data Visualization.
+* **Accenture North America - Product Design Job Simulation**
+    * **[Verify Credential](https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/T6kdcdKSTfg2aotxT/NqLZqrXRDvfkqHRKG_T6kdcdKSTfg2aotxT_KMbySJtMC69MTFiXf_1737742185217_completion_certificate.pdf)**
+    * *Skills:* UI/UX, User Interface Design, Figma.
+
+#### ☁️ Cloud & Core AI Certifications
+
+* **Oracle Cloud Infrastructure 2025 Certified AI Foundations Associate**
+    * **[Verify Credential](https://catalog-education.oracle.com/pls/certview/sharebadge?id=F6E097079A793C9C94D2F5BC961DEE570109A7D1F18B957709F6F6B69D0EA02F)**
+    * *Issued:* Oct 2025 · *Expires:* Oct 2027
+* **Gen AI Exchange Program certification** (Hack2skill)
+    * **[Verify Credential](https://certificate.hack2skill.com/user/GenAI5-28M/2025H2S04GENAI-A00731)**
+    * *Skills:* Generative AI, Artificial Intelligence (AI), Vertex AI.
+* **What Is Generative AI?** (LinkedIn)
+    * **[Verify Credential](https://www.linkedin.com/learning/certificates/ee52e351580fe02806b99e4fadbc15e98076661eded9a2e9735baa050840dd16?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_certifications_details%3BURJxw22GSZm%2FtMg0eFOxMg%3D%3D)**
+
+#### 💻 Database & Development
+
+* **Neo4j Certified Professional**
+    * **[Verify Credential](https://graphacademy.neo4j.com/c/eb4426ac-30c7-4a9a-8156-81cd98bd7ad8/)**
+    * *Skills:* Neo4j, Cypher Query Language, Data modelling.
+* **Postman API Fundamentals Student Expert**
+    * **[Verify Credential](https://api.badgr.io/public/assertions/menu6YJTQM-qk6NxPF-86g?identity__email=amritrajrajput14%40gmail.com)**
+    * *Skills:* MERN Stack, API Development, REST APIs.
+* **MongoDB Developer's Toolkit: CRUD Mastery** (GeeksforGeeks)
+    * *Skills:* Indexing, Aggregation framework, NoSQL integration.
 
 ---
-
 ### 💬 Let’s Connect & Collaborate  
 
 <p align="center">
@@ -96,9 +130,7 @@ Consistent Formatting: Switched to primarily using Markdown for better readabili
 
 | 🚀 Project | 💡 Description | 🔗 Link |
 |-------------|----------------|----------|
-| **HackMates** | Hackathon Team Finder & Idea Pitching Tool | [View on GitHub](#) |
 | **Bodhica** | Vedic-themed Conversational AI Platform | [View on GitHub](#) |
-| **DataViz Flow** | Interactive data visualization dashboards | [Coming Soon](#) |
 
 ---
 
