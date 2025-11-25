@@ -13,9 +13,9 @@ Concise Introduction: Your intro is now more scannable and placed next to the co
 Consistent Formatting: Switched to primarily using Markdown for better readability and maintenance.
 -->
 
-<div align="center">
+<!-- <div align="center">
   <img width="100%" height="817" alt="ChatGPT Image Oct 14, 2025, 07_53_28 AM" src="https://github.com/user-attachments/assets/b07a7f2a-7c51-49d8-85b6-0357ae9a8a2b" />
-</div>
+</div> -->
 <!-- 🌟 Amrit Raj Rajput – Futuristic & Calm-Tech GitHub Profile  -->
 
 <h1 align="center">  
