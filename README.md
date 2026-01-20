@@ -2,36 +2,40 @@
   <br>
 
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Sedan+SC&weight=500&duration=3000&pause=500&color=02F769&background=15151500&center=true&vCenter=true&random=false&width=500&lines=Hey+there!+I'm+Amrit+Raj+Rajput+👋;Data+Science+Student+📊;AI/ML+Enthusiast+🤖;Full+Stack+Developer+💻;Open+Source+Contributor+🚀" alt="Typing SVG"/>
+    <img src="https://readme-typing-svg.herokuapp.com?font=Playfair+Display&weight=600&size=26&duration=3200&pause=800&color=FFD700&background=1A0B2E00&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Amrit+Raj+Rajput;Data+Science+Engineer+in+Progress;AI+%7C+ML+%7C+Analytics;Open+Source+Contributor" />
   </a>
 
-  <img src="https://i.giphy.com/media/QIKUNA9oGxeWGLbCFY/giphy.gif" alt="Coding GIF" width="40"/>
+  <br><br>
+
+  <img src="https://i.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="48"/>
 
   <br><br>
 
   <a href="">
-    <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139"/>
+    <img src="https://img.shields.io/badge/Portfolio-1A0B2E?style=for-the-badge&logo=google-chrome&logoColor=FFD700"/>
   </a>
+
   <a href="https://www.linkedin.com/in/amrit-raj-rajput-569547271/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <img src="https://img.shields.io/badge/LinkedIn-4B2C82?style=for-the-badge&logo=linkedin&logoColor=FFD700"/>
   </a>
+
   <a href="">
-    <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Medium-1A0B2E?style=for-the-badge&logo=medium&logoColor=FFD700"/>
   </a>
+
   <a href="https://x.com/AmritRajRa4312">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=x&logoColor=white"/>
+    <img src="https://img.shields.io/badge/X-1A0B2E?style=for-the-badge&logo=x&logoColor=FFD700"/>
   </a>
+
   <a href="">
-    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
+    <img src="https://img.shields.io/badge/YouTube-8B0000?style=for-the-badge&logo=youtube&logoColor=FFD700"/>
   </a>
 
   <br><br>
 
-  <img src="https://komarev.com/ghpvc/?username=amritrajrajput&label=Profile%20Views&color=02F769&style=for-the-badge"/>
+  <img src="https://komarev.com/ghpvc/?username=amritrajrajput&label=Profile%20Views&color=FFD700&style=for-the-badge"/>
 
 </div>
-
-<br>
 
 ## 👨‍💻 About Me
 ```yaml
