@@ -19,17 +19,12 @@
     <img src="https://img.shields.io/badge/LinkedIn-4B2C82?style=for-the-badge&logo=linkedin&logoColor=FFD700"/>
   </a>
 
-  <a href="">
-    <img src="https://img.shields.io/badge/Medium-1A0B2E?style=for-the-badge&logo=medium&logoColor=FFD700"/>
-  </a>
-
+  
   <a href="https://x.com/AmritRajRa4312">
     <img src="https://img.shields.io/badge/X-1A0B2E?style=for-the-badge&logo=x&logoColor=FFD700"/>
   </a>
 
-  <a href="">
-    <img src="https://img.shields.io/badge/YouTube-8B0000?style=for-the-badge&logo=youtube&logoColor=FFD700"/>
-  </a>
+ 
 
   <br><br>
 
