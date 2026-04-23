@@ -16,7 +16,7 @@
   <br><br>
 
   <!-- Buttons -->
-  <a href="YOUR_PORTFOLIO_LINK">
+  <a href="https://amritrajrajput.github.io/portfolio/">
     <img src="https://img.shields.io/badge/🌐_Portfolio-FFD700?style=for-the-badge&logo=google-chrome&logoColor=black"/>
   </a>
 
