@@ -176,9 +176,7 @@ interests:
 
 📊 GitHub Statistics
 <div align="center"> <img loading="lazy" width="396" src="https://github-readme-streak-stats.herokuapp.com/?user=amritrajrajput&theme=react&hide_border=true"/> <img loading="lazy" width="396" src="https://github-readme-stats.vercel.app/api?username=amritrajrajput&show_icons=true&theme=react&hide_border=true"/> </div> <div align="center"> <img loading="lazy" width="325" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amritrajrajput&layout=compact&theme=react&hide_border=true"/> </div>
-📝 Latest Blog Posts
 
-Visit my LinkedIn for latest articles and learning updates.
 
 💡 Random Dev Quote
 <div align="center"> <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical"/> </div> <br> <div align="center"> <a href="https://git.io/typing-svg"> <img src="https://readme-typing-svg.herokuapp.com?font=Sedan+SC&weight=500&size=30&pause=1000&color=02F769&background=6883FF00&center=true&vCenter=true&width=600&lines=Thanks+For+Visiting!+⭐;Let's+Connect!+🚀"/> </a> <h3>Show some ❤️ by starring repositories!</h3> <p> <img src="https://forthebadge.com/images/badges/built-with-love.svg"/> <img src="https://forthebadge.com/images/badges/powered-by-coffee.svg"/> </p> </div> ```
